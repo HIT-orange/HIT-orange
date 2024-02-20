@@ -1,2 +1,2 @@
 # Hi_Forrest
-personal repo
+Robotics Primary Student in Harbin Institute of Technology
